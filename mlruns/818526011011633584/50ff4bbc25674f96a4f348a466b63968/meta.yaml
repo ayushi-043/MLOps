@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLOPS_PROJECT/mlruns/818526011011633584/50ff4bbc25674f96a4f348a466b63968/artifacts
+end_time: 1749109174461
+entry_point_name: ''
+experiment_id: '818526011011633584'
+lifecycle_stage: active
+run_id: 50ff4bbc25674f96a4f348a466b63968
+run_name: GradientBoosting
+run_uuid: 50ff4bbc25674f96a4f348a466b63968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109170894
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/MLOPS_PROJECT/mlruns/818526011011633584/1cf05f95c366453c950a500abe1d0d69/artifacts
+end_time: 1749109170890
+entry_point_name: ''
+experiment_id: '818526011011633584'
+lifecycle_stage: active
+run_id: 1cf05f95c366453c950a500abe1d0d69
+run_name: RandomForest
+run_uuid: 1cf05f95c366453c950a500abe1d0d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749109164487
+status: 3
+tags: []
+user_id: hp
